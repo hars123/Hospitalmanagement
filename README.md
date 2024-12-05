@@ -42,9 +42,5 @@ Resource Optimization: Efficiently manages hospital resources, reducing waste an
 
 Better Decision Making: Provides valuable insights through analytics, helping hospital management make informed decisions.
 
-
-
->>>>>>> c2d94a18e765dbefcf2e8cb7814035eca8e1bf04
-
 # Woring  of Project
 
